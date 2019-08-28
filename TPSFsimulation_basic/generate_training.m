@@ -15,7 +15,7 @@ k = 1;
 % nTG = 160;
 while k <= N_total
 % Take 28x28 subset of random 32x32 MNIST image
-    im_binary = train_images(3:end-2,3:end-2,round(rand()*size(train_images,3)));
+    im_binary = train_images(3:end-2,3:end-2,round(rand()*(size(train_images,3)-1))+1);
 % Make sure it is not too sparse (we want voxels with more TPSFs than
 % less)
     if sum(sum(im_binary)) < 250
