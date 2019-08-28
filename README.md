@@ -20,7 +20,7 @@ Authors: Jason T. Smith, Dr. Ruoyang Yao, Dr. Pingkun Yan
 
 --------------------------------------------------------------
 
-# Relevant Work:
+### Relevant Work:
 
 #### Original preprint (FLIM & MFLI)
 1) Smith, Jason T., et al. "_Ultra-fast fit-free analysis of complex fluorescence lifetime imaging via deep learning_." bioRxiv (2019): 523928.
