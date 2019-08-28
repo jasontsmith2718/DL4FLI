@@ -10,7 +10,7 @@ This GitHub contains relevant script, data and instructions for:
 
   * MFLI via Monte-Carlo eXtreme
 
-2. Neural network training (**python**, [Tensorflow & Keras]).
+2. Neural network training (**python**, [_Tensorflow & Keras_]).
 
   * 3D-CNN for MFLI and FLIM analysis
   
