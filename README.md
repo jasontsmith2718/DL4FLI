@@ -16,7 +16,7 @@ This GitHub contains relevant script, data and instructions for:
   
 3. SPCImage export and analysis instructions (general) along with example data.
 
-Authors: Jason T. Smith
+Authors: Jason T. Smith, Dr. Ruoyang Yao, Dr. Pingkun Yan
 
 --------------------------------------------------------------
 
