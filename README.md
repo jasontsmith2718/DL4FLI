@@ -8,7 +8,7 @@ This GitHub contains relevant script, data and instructions for:
 
   * FLIM
 
-  * MFLI via Monte-Carlo eXtreme
+  * MFLI
 
 2. Neural network training (**python**, [_Tensorflow & Keras_]).
 
