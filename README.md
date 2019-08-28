@@ -5,8 +5,8 @@ Deep Learning for Fluorescence Lifetime Imaging (FLI)
 
 This GitHub contains relevant script, data and instructions for:
 1) FLI data simulation workflow (MATLAB)
-  a) FLIM
-  b) MFLI via Monte-Carlo eXtreme
+  ⋅⋅⋅a) FLIM
+  ⋅⋅⋅b) MFLI via Monte-Carlo eXtreme
 
 2) Neural network training (python, [Tensorflow & Keras]).
   a) 3D-CNN for MFLI and FLIM analysis
