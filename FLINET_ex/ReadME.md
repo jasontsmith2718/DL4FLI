@@ -13,3 +13,4 @@ A great installation tutorial for the Anaconda IDE, Tensorflow and Keras can be 
 #### Dataset information: Bi-exponential - (tau1, tau2, p.c.) = (0.2-0.6 ns, 1-1.5 ns, 500-2500). Generated with script from ['/TPSFsimulation_basic'](https://github.com/jasontsmith2718/DL4FLI/tree/master/TPSFsimulation_basic)
 1. Training data folder ['/trainData'](https://figshare.com/s/a472e0f345dec9c7ca5f) (1000 TPSF voxels)
 2. Test data folder ['/testData'](https://figshare.com/s/951f1fb30507fc717a7f) (50 TPSF voxels)
+3. Jupyter Notebook containing [relevant script](https://github.com/jasontsmith2718/DL4FLI/blob/master/FLINET_ex/DL4FLI_3DCNN.ipynb) for data upload, network training and _in silico_ testing.
