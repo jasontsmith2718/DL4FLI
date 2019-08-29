@@ -29,7 +29,7 @@ Authors: Jason T. Smith, Dr. Ruoyang Yao, Nathan Un, Dr. Pingkun Yan
 2) Smith JT, Un N, Yao R, Sinsuebphon N, Rudkouskaya A, Mazurkiewicz J, Barroso M, Yan P, Intes X. _Fluorescent Lifetime Imaging improved via Deep Learning_. InNovel Techniques in Microscopy 2019 Apr 14 (pp. NM3C-4). Optical Society of America.
 
 #### [SPIE Presentation](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10871/108710J/Deep-learning-for-quantitative-bi-exponential-fluorescence-lifetime-imaging-Conference/10.1117/12.2509857.short)
-3) Smith JT, Yao R, Chen SJ, Sinsuebphon N, Rudkouskaya A, Barroso M, Yan P, Intes X. _Deep learning for quantitative bi-exponential fluorescence lifetime imaging (Conference Presentation)_. InMultimodal Biomedical Imaging XIV 2019 Mar 4 (Vol. 10871, p. 108710J). International Society for Optics and Photonics..
+3) Smith JT, Yao R, Chen SJ, Sinsuebphon N, Rudkouskaya A, Barroso M, Yan P, Intes X. _Deep learning for quantitative bi-exponential fluorescence lifetime imaging (Conference Presentation)_. InMultimodal Biomedical Imaging XIV 2019 Mar 4 (Vol. 10871, p. 108710J). International Society for Optics and Photonics.
 
 
 --------------------------------------------------------------
