@@ -14,7 +14,7 @@ This GitHub contains relevant script, data and instructions for:
 
   * 3D-CNN for MFLI and FLIM analysis ['/FLINET_ex'](https://github.com/jasontsmith2718/DL4FLI/tree/master/FLINET_ex)
   
-3. SPCImage export and analysis instructions (general) along with example data. ['/SPCImage_ExportAndAnalyze'](https://github.com/jasontsmith2718/DL4FLI/tree/master/SPCImage_ExportAndAnalyze)
+3. SPCImage export and analysis [instructions](https://github.com/jasontsmith2718/DL4FLI/blob/master/SPCImage_ExportAndAnalyze/SPCImageExportAndAnalyze_slideShow.pptm?raw=true) (general) along with example data. ['/SPCImage_ExportAndAnalyze'](https://github.com/jasontsmith2718/DL4FLI/tree/master/SPCImage_ExportAndAnalyze)
 
 Authors: Jason T. Smith, Dr. Ruoyang Yao, Nathan Un, Dr. Pingkun Yan
 
