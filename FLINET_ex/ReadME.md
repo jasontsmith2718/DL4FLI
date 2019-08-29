@@ -1,4 +1,4 @@
-## 3D-CNN training & testing with example data
+## [3D-CNN training & testing](https://github.com/jasontsmith2718/DL4FLI/blob/master/FLINET_ex/DL4FLI_3DCNN.ipynb) with example data
 -------------------------------------------------
 
 ## Need:
