@@ -22,10 +22,10 @@ Authors: Jason T. Smith, Dr. Ruoyang Yao, Nathan Un, Dr. Pingkun Yan
 
 ### Relevant Work:
 
-#### [Original preprint (FLIM & MFLI)](https://www.biorxiv.org/content/10.1101/523928v1)
+#### [Original preprint](https://www.biorxiv.org/content/10.1101/523928v1)
 1) Smith, Jason T., et al. "_Ultra-fast fit-free analysis of complex fluorescence lifetime imaging via deep learning_." bioRxiv (2019): 523928.
 
-#### [OSA Proceeding (FLIM & MFLI)](https://www.osapublishing.org/abstract.cfm?uri=NTM-2019-NM3C.4)
+#### [OSA Proceeding](https://www.osapublishing.org/abstract.cfm?uri=NTM-2019-NM3C.4)
 2) Smith, Jason T., et al. "_Fluorescent Lifetime Imaging improved via Deep Learning_." Novel Techniques in Microscopy. Optical Society of America, 2019.
 
 #### [SPIE Presentation](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10871/108710J/Deep-learning-for-quantitative-bi-exponential-fluorescence-lifetime-imaging-Conference/10.1117/12.2509857.short)
