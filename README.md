@@ -45,11 +45,11 @@ Authors: Jason T. Smith, Dr. Ruoyang Yao, Nathan Un, Dr. Pingkun Yan
   * T47D
   * MDA-MB 231
 
-## NIR FLIM data
+## NIR FLIM Data
 
 1. [NIR FRET-FLIM](https://figshare.com/s/d4d21918f719a8233f4a) (**AF700 & AF750**, T47D breast cancer cells)
 
-## _in silico_ data
+## _In Silico_ Data
 
 1. Data simulated across three photon count thresholds [(25-100, 100-250 & 250-500)](https://figshare.com/s/e84c4d612654df989208)
 
