@@ -18,7 +18,7 @@ This GitHub contains relevant script, data and instructions for:
   
 3. SPCImage export and analysis [instructions](https://github.com/jasontsmith2718/DL4FLI/blob/master/SPCImage_ExportAndAnalyze/SPCImageExportAndAnalyze_slideShow.pptm?raw=true) (general) along with example data. ['/SPCImage_ExportAndAnalyze'](https://github.com/jasontsmith2718/DL4FLI/tree/master/SPCImage_ExportAndAnalyze)
 
-Authors: Jason T. Smith, Dr. Ruoyang Yao, Nathan Un, Dr. Pingkun Yan
+Authors: [Jason T. Smith](https://www.researchgate.net/profile/Jason_Smith96), [Dr. Ruoyang Yao](https://www.researchgate.net/profile/Ruoyang_Yao), Nathan Un, [Dr. Pingkun Yan](https://www.researchgate.net/profile/Pingkun_Yan)
 
 --------------------------------------------------------------
 
