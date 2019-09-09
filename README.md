@@ -57,7 +57,7 @@ Authors: [Jason T. Smith](https://www.researchgate.net/profile/Jason_Smith96), [
 
 --------------------------------------------------------------
 
-## Related Work to Date:
+## Related Publications/Presentations:
 
 #### [Original preprint](https://www.biorxiv.org/content/10.1101/523928v1)
 1) Smith JT, Yao R, Sinsuebphon N, Rudkouskaya A, Mazurkiewicz J, Barroso M, Yan P, Intes X. _Ultra-fast fit-free analysis of complex fluorescence lifetime imaging via deep learning_. bioRxiv. 2019 Jan 1:523928.
