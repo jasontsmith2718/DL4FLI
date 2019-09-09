@@ -24,7 +24,7 @@ Authors: Jason T. Smith, Dr. Ruoyang Yao, Nathan Un, Dr. Pingkun Yan
 
 ### Relevant Data files (reference here):
 
-## MFLI Data:
+#### MFLI Data:
 
 1. Time-series MFLI for pharmacokinetic monitoring _in vivo_ [control](https://figshare.com/s/f216de0f63a352cd5c44) & [FRET-induced](https://figshare.com/s/db8dbc19455ea5fa82f3)
 
@@ -36,7 +36,7 @@ Authors: Jason T. Smith, Dr. Ruoyang Yao, Nathan Un, Dr. Pingkun Yan
 
 5. [Serial dilution of AF750](https://figshare.com/s/3ca9941b2c6e50f500eb) imaged at 25mW & 75mW laser power for performance assessment at low photon-counts
 
-## Visible FLIM Data
+#### Visible FLIM Data
 
 1. [Visible FRET-FLIM](https://figshare.com/s/541c3112813cbd417957) (**AF488 & AF555**, T47D breast cancer cells)
 
@@ -47,17 +47,17 @@ Authors: Jason T. Smith, Dr. Ruoyang Yao, Nathan Un, Dr. Pingkun Yan
   * T47D
   * MDA-MB 231
 
-## NIR FLIM Data
+#### NIR FLIM Data
 
 1. [NIR FRET-FLIM](https://figshare.com/s/d4d21918f719a8233f4a) (**AF700 & AF750**, T47D breast cancer cells)
 
-## _In Silico_ Data
+#### _In Silico_ Data
 
 1. Data simulated across three photon count thresholds [(25-100, 100-250 & 250-500)](https://figshare.com/s/e84c4d612654df989208)
 
 --------------------------------------------------------------
 
-### Related Work to Date:
+## Related Work to Date:
 
 #### [Original preprint](https://www.biorxiv.org/content/10.1101/523928v1)
 1) Smith JT, Yao R, Sinsuebphon N, Rudkouskaya A, Mazurkiewicz J, Barroso M, Yan P, Intes X. _Ultra-fast fit-free analysis of complex fluorescence lifetime imaging via deep learning_. bioRxiv. 2019 Jan 1:523928.
