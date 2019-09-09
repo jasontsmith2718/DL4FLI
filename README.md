@@ -8,7 +8,9 @@ This GitHub contains relevant script, data and instructions for:
 
   * FLIM ['/TPSFsimulation_FLIM'](https://github.com/jasontsmith2718/DL4FLI/tree/master/TPSFsimulation_FLIM)
 
-  * MFLI ['/TPSFsimulation_basic'](https://github.com/jasontsmith2718/DL4FLI/tree/master/TPSFsimulation_basic)
+  * Basic MFLI ['/TPSFsimulation_basic'](https://github.com/jasontsmith2718/DL4FLI/tree/master/TPSFsimulation_basic)
+  
+  * Monte-Carlo ([__MCX__](http://mcx.space/)) modeling of fluorescence decays [through turbid media](https://github.com/jasontsmith2718/DL4FLI/tree/master/TPSFsimulation_MCX). _**THIS WORK IS ONGOING**_.
 
 2. Neural network training (**python**, [_Tensorflow & Keras_]).
 
