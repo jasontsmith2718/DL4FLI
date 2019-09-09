@@ -12,7 +12,7 @@ This GitHub contains relevant script, data and instructions for:
   
   * Monte-Carlo (via [__MCX__](http://mcx.space/)) modeling of fluorescence decays [through turbid media](https://github.com/jasontsmith2718/DL4FLI/tree/master/TPSFsimulation_MCX). _**THIS WORK IS ONGOING**_.
 
-2. Neural network training (**python**, [_Tensorflow & Keras_]).
+2. **FLI-Net** (neural network) training (**python**, [_Tensorflow & Keras_]).
 
   * 3D-CNN for MFLI and FLIM analysis ['/FLINET_ex'](https://github.com/jasontsmith2718/DL4FLI/tree/master/FLINET_ex)
   
