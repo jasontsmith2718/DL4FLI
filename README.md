@@ -24,7 +24,7 @@ __Research Group__: [Functional & Molecular Optical Imaging Laboratory](http://i
 
 --------------------------------------------------------------
 
-### Relevant Data files (reference here):
+### Relevant Data files:
 
 #### MFLI Data:
 
@@ -61,14 +61,17 @@ __Research Group__: [Functional & Molecular Optical Imaging Laboratory](http://i
 
 ## Related Publications/Presentations:
 
+#### [PNAS Manuscript](https://www.pnas.org/content/early/2019/11/11/1912707116) & [Supplementary Information](https://www.pnas.org/content/pnas/suppl/2019/11/11/1912707116.DCSupplemental/pnas.1912707116.sapp.pdf)
+1) Smith JT, Yao R, Sinsuebphon N, Rudkouskaya A, Un N, Mazurkiewicz J, Barroso M, Yan P, Intes X. _Fast fit-free analysis of fluorescence lifetime imaging via deep learning_. Proceedings of the National Academy of Sciences. 2019 Nov 12.
+
 #### [Original preprint](https://www.biorxiv.org/content/10.1101/523928v1)
-1) Smith JT, Yao R, Sinsuebphon N, Rudkouskaya A, Mazurkiewicz J, Barroso M, Yan P, Intes X. _Ultra-fast fit-free analysis of complex fluorescence lifetime imaging via deep learning_. bioRxiv. 2019 Jan 1:523928.
+2) Smith JT, Yao R, Sinsuebphon N, Rudkouskaya A, Mazurkiewicz J, Barroso M, Yan P, Intes X. _Ultra-fast fit-free analysis of complex fluorescence lifetime imaging via deep learning_. bioRxiv. 2019 Jan 1:523928.
 
 #### [OSA Proceeding](https://www.osapublishing.org/abstract.cfm?uri=NTM-2019-NM3C.4)
-2) Smith JT, Un N, Yao R, Sinsuebphon N, Rudkouskaya A, Mazurkiewicz J, Barroso M, Yan P, Intes X. _Fluorescent Lifetime Imaging improved via Deep Learning_. InNovel Techniques in Microscopy 2019 Apr 14 (pp. NM3C-4). Optical Society of America.
+3) Smith JT, Un N, Yao R, Sinsuebphon N, Rudkouskaya A, Mazurkiewicz J, Barroso M, Yan P, Intes X. _Fluorescent Lifetime Imaging improved via Deep Learning_. InNovel Techniques in Microscopy 2019 Apr 14 (pp. NM3C-4). Optical Society of America.
 
 #### [SPIE Presentation](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10871/108710J/Deep-learning-for-quantitative-bi-exponential-fluorescence-lifetime-imaging-Conference/10.1117/12.2509857.short)
-3) Smith JT, Yao R, Chen SJ, Sinsuebphon N, Rudkouskaya A, Barroso M, Yan P, Intes X. _Deep learning for quantitative bi-exponential fluorescence lifetime imaging (Conference Presentation)_. InMultimodal Biomedical Imaging XIV 2019 Mar 4 (Vol. 10871, p. 108710J). International Society for Optics and Photonics.
+4) Smith JT, Yao R, Chen SJ, Sinsuebphon N, Rudkouskaya A, Barroso M, Yan P, Intes X. _Deep learning for quantitative bi-exponential fluorescence lifetime imaging (Conference Presentation)_. InMultimodal Biomedical Imaging XIV 2019 Mar 4 (Vol. 10871, p. 108710J). International Society for Optics and Photonics.
 
 
 --------------------------------------------------------------
